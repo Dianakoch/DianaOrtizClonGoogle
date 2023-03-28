@@ -3,7 +3,7 @@
 
 ## **INDICE**
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/Dianakoch/DianaOrtizClonGoogle#1-intro)
 * [2. ¿Que construi?](#)
 * [3. Objetivo del Proyecto](#)
 * [4. Link a Demo](#)
