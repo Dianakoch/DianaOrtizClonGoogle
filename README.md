@@ -23,5 +23,5 @@ En este proyecto me enfoque en contruir la clonacion de la interfaz de Google. C
 ## 3. Objetivo del Proyecto
 Aprender a uilizar las etiquetas estandar de HTML5 y CSS3
 
-## 4.Link a demo
+## 4. Link a demo
 Aqui puedes vsualizar mi proyecto terminado: [Clonacion de Google](#)
