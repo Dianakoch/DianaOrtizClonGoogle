@@ -16,4 +16,12 @@ HTML5 trbaja de la mano con CSS3 para crear paginas web que usamos todos los dia
 
 ## 2. Que construi
 En este proyecto me enfoque en contruir la clonacion de la interfaz de Google. Contiene las siguientes secciones:
-* Header
+* Header: Seccion que involucra la foto de mi perfil, iconoc y el menu con hipervinculos.
+* Main: Seccion del contenedor para los elementos centrales de la pagina: logo, barra de busqueda, iconos y botones.
+* Footer: Seccion que incluye hipervinculos al final de la pagina.
+
+## 3. Objetivo del Proyecto
+Aprender a uilizar las etiquetas estandar de HTML5 y CSS3
+
+## Link a demo
+Aqui puedes vsualizar mi proyecto terminado: [Clonacion de Google](#)
