@@ -3,10 +3,10 @@
 
 ## **INDICE**
 
-* [1. Intro](https://github.com/Dianakoch/DianaOrtizClonGoogle#1-intro)
-* [2. ¿Que construi?](#)
-* [3. Objetivo del Proyecto](#)
-* [4. Link a Demo](#)
+* [1. Intro](https://github.com/Dianakoch/DianaOrtizClonGoogle/blob/main/README.md#1-intro)
+* [2. ¿Que construi?](https://github.com/Dianakoch/DianaOrtizClonGoogle/blob/main/README.md#2-que-construi)
+* [3. Objetivo del Proyecto](https://github.com/Dianakoch/DianaOrtizClonGoogle/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a Demo](https://github.com/Dianakoch/DianaOrtizClonGoogle/blob/main/README.md#4-link-a-demo)
 
 ****
 
@@ -23,5 +23,5 @@ En este proyecto me enfoque en contruir la clonacion de la interfaz de Google. C
 ## 3. Objetivo del Proyecto
 Aprender a uilizar las etiquetas estandar de HTML5 y CSS3
 
-## Link a demo
+## 4.Link a demo
 Aqui puedes vsualizar mi proyecto terminado: [Clonacion de Google](#)
